@@ -6,4 +6,10 @@ i want to insert into repo
 -- added this in remote, check!
 =======
 new text i want to insert more..
+<<<<<<< HEAD
 removed git changes
+=======
+>>>>>>> Stashed changes
+
+lets try test2..!
+>>>>>>> 9f072801c391407cb3e71cf1a42d1a0a3af09925
