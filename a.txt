@@ -1,15 +1,9 @@
 this is new txt file
 i want to insert into repo
 -gitTest
-<<<<<<< Updated upstrea:m
 
 -- added this in remote, check!
-=======
-new text i want to insert more..
-<<<<<<< HEAD
-removed git changes
-=======
->>>>>>> Stashed changes
+new text i want to insert more...
 
 lets try test2..!
->>>>>>> 9f072801c391407cb3e71cf1a42d1a0a3af09925
+
