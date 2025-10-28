@@ -7,3 +7,5 @@ i want to insert into repo
 =======
 new text i want to insert more..
 >>>>>>> Stashed changes
+
+lets try test2..!
