@@ -1,9 +1,9 @@
 this is new txt file
 i want to insert into repo
 -gitTest
-<<<<<<< Updated upstream
+<<<<<<< Updated upstrea:m
 
 -- added this in remote, check!
 =======
 new text i want to insert more..
->>>>>>> Stashed changes
+removed git changes
